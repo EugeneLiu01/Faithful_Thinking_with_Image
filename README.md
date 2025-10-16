@@ -1,2 +1,5 @@
-# Faithful_Thinking_with_Image
-Official implementation of "Can I Trust Your Visual Thinking? Measuring and Improving Visual Thinking Faithfulness"
+# Can I Trust Your Visual Thinking? Measuring and Improving Visual Thinking Faithfulness
+
+**TL;DR:** In Large Vision-Language Models (LVLMs), Multimodal Chain-of-Thought (MCoT) reasoning often produces correct answers but with inaccurate visual information, indicating a lack of faithfulness. The core issue is that Reinforcement Learning (RL) rewards prioritize the "vision-text interleaved format" over genuine visual evidence. An automated evaluation reveals this visual information is both unreliable and insufficient. To address this, we propose a novel annotation-free and plug-and-play SCCM learning strategy, which prompts the model to generate "sufficient yet minimal" visual components. This approach consistently enhances the faithfulness of MCoT across multiple benchmarks.
+
+Code will be released.
