@@ -1,0 +1,1 @@
+"""Visual faithfulness metric evaluation."""

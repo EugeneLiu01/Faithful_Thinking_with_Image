@@ -1,0 +1,6 @@
+# Keep downloaded data and generated artifacts out of the code repository.
+/data/raw/*
+!/data/raw/.gitkeep
+/data/processed/*
+!/data/processed/.gitkeep
+__pycache__/
